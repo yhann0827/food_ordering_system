@@ -1,0 +1,17 @@
+Retrovailles Restaurant
+-----------------------
+Item Quantity Price 
+_____________
+Burger 14 RM6.00 
+_____________
+Pizza 1 RM10.50 
+_____________
+Watermelon Juice 1 RM4.50 
+_____________
+Apple Juice 1 RM4.50 
+_____________
+Subtotal: RM103.5
+Tax : 10%
+Total: RM113.85
+
+Thank you!
